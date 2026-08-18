@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/2023-nash-equilibrium-vector-payoff
 date: 2023-07-01
 venue: "IFAC World Congress"
+paperurl: "https://doi.org/10.1016/j.ifacol.2023.10.1395"
 citation: 'Z. Guo, T. Hayakawa, and Y. Yan. (2023). &quot;Nash Equilibrium of 2-Agent Game with Quadratic Vector Payoff Function and Its Stability.&quot; <i>IFAC World Congress</i>, pp. 2824–2829.'
 ---
 

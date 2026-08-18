@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/2024-topology-nash-equilibrium-set
 date: 2024-07-01
 venue: "American Control Conference"
+paperurl: "https://doi.org/10.23919/ACC60939.2024.10644643"
 citation: 'Z. Guo and T. Hayakawa. (2024). &quot;Topology of Nash Equilibrium Set with Quadratic Vector Payoff Functions.&quot; <i>American Control Conference</i>, Toronto, Canada, pp. 845–850.'
 ---
 

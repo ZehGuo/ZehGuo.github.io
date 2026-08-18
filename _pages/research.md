@@ -29,12 +29,14 @@ Multi-agent networks with dynamic edges
 
 My master's research studied multi-agent network systems with dynamic edges. I developed a cone-based synthesis approach related to dissipativity and passivity, analyzed relative gain and phase margins, and considered consensus and cooperative output-regulation problems.
 
-Research software
+Simulation
 ======
 
 ### Pareto improvement simulation
 
 Simulation code supporting research on Pareto improvement for noncooperative dynamical systems with vector-valued payoffs is available on [GitHub](https://github.com/ZehGuo/ZehuiGuo_Pareto_Improvement_Simulation).
+
+Additional simulation results and code for my other research projects are available upon request. Please [contact me by email](mailto:wasdjkl0225@gmail.com) for further information.
 
 Methods and tools
 ======
