@@ -47,10 +47,11 @@ Academic and project experience
 Knowledge foundation
 ======
 
-- **Mathematical foundations:** linear algebra, calculus, probability and statistics, differential equations, matrix theory, numerical methods, topology, differential geometry, and convex optimization.
-- **Systems and decision theory:** linear and nonlinear control, stability, system identification and filtering, signal processing, passivity and dissipativity, graph theory, game theory, and mechanism design.
-- **Computational methods:** mathematical modeling, numerical optimization, multi-agent simulation, computer vision, and data analysis using MATLAB, Python, C, and Java.
-- **Selected high-scoring coursework:** Applied Optimization (93), Matrix Theory (90), Probability and Mathematical Statistics (98), Linear Algebra (94), and Numerical Method (90).
+- **Mathematics and optimization:** calculus, ordinary and partial differential equations, linear algebra, matrix theory, probability and statistics, numerical methods, applied optimization, and operational research.
+- **Control, systems, and signals:** principles of automatic control, linear system theory, system identification and filtering, process control, signals and systems, digital signal processing, electrical network theory, and computer control-system design.
+- **Computing and intelligent systems:** programming fundamentals, data structures and control algorithm analysis, computer networks, mobile internet software engineering, object-oriented programming, computer vision, robotics, and computer simulation.
+- **Engineering foundations:** electrical circuits, analog and digital electronics, sensors and measurement, microprocessors, embedded-system development, and engineering practice.
+- **Doctoral training:** advanced seminars and research in systems and control engineering, together with research ethics, international communication, and professional development.
 
 Awards and scholarships
 ======
