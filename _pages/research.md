@@ -5,44 +5,38 @@ permalink: /research/
 author_profile: false
 ---
 
-Noncooperative dynamical systems with vector-valued payoffs
+My research concerns dynamical systems composed of interacting decision makers. I use control theory, game theory, optimization, and simulation to study equilibrium, stability, cooperation, and system-level improvement.
+
+Game theory and multi-objective dynamical systems
 ======
 
-Many real-world decision makers pursue several objectives at the same time, without a fixed rule for combining them into a single scalar objective. My doctoral research developed a mathematical framework for noncooperative dynamical systems in which each agent has a vector-valued payoff function.
+Standard noncooperative games usually assign each agent a single scalar payoff. My doctoral research considered systems in which agents pursue multiple objectives represented by vector-valued payoffs.
 
-The work addressed four connected questions:
+The work addressed three related problems:
 
-1. **Characterization of equilibrium sets.** I showed how the Nash equilibrium set can be represented through a family of weighted scalar games.
-2. **Topology of equilibrium sets.** I studied conditions under which the equilibrium set is compact and connected, and analyzed its relationship with the agents' weight space.
-3. **Stability of equilibrium sets.** For two-agent systems, I analyzed stability under piecewise pseudo-gradient dynamics and developed a coordinate-transformation approach that simplifies the analysis.
-4. **Pareto improvement and incentive design.** I investigated how tax- and subsidy-type incentives can guide self-interested trajectories toward weak Pareto improvements when agents have multiple objectives.
+- **Equilibrium structure:** characterized Nash equilibrium sets and studied their topological properties.
+- **Stability:** analyzed equilibrium-set stability under piecewise pseudo-gradient dynamics and developed a coordinate-transformation method for simplifying the analysis.
+- **Incentive design:** studied Pareto improvement and designed tax- and subsidy-type mechanisms that encourage individually rational agents to produce better collective outcomes.
 
-Fair energy management in a sharing economy
+Related work: [equilibrium characterization](/publication/2023-nash-equilibrium-vector-payoff), [equilibrium-set topology](/publication/2024-topology-nash-equilibrium-set), [stability and stabilization](/publication/2023-stability-stabilization-nash), [Pareto improvement](/publication/2024-pareto-improvement), [incentive design](/publication/2024-weak-pareto-improvement), and [coordinate-transformation-based stability analysis](/publication/2026-coordinate-transformation).
+
+Control and networked dynamical systems
 ======
 
-My postdoctoral research considered the fair allocation of benefits and costs in shared photovoltaic battery systems. The project used cooperative game theory and axiomatic allocation methods to compare different notions of fairness, including relationships between equal allocation and the Shapley value.
+My earlier research studied multi-agent networks whose connections have their own dynamics. I used cone, passivity, and dissipativity concepts to analyze interconnected systems.
 
-This work strengthened my interest in connecting abstract definitions of fairness with concrete energy and resource-allocation settings.
+This work developed a cone-based synthesis method, evaluated relative gain and phase margins, and addressed consensus and cooperative output regulation in networks with dynamic edges.
 
-Multi-agent networks with dynamic edges
+Related work: [feedback cone design and gain/phase margins](/publication/2019-feedback-cone-design).
+
+Fair allocation and energy systems
 ======
 
-My master's research studied multi-agent network systems with dynamic edges. I developed a cone-based synthesis approach related to dissipativity and passivity, analyzed relative gain and phase margins, and considered consensus and cooperative output-regulation problems.
+My postdoctoral research examined how the benefits and costs of shared photovoltaic-battery systems can be allocated fairly. I studied cooperative-game-theoretic and axiomatic approaches to allocation, including relationships between equal allocation and the Shapley value.
 
-Simulation
+I also explored whether opinion-dynamics models could help describe how notions of fairness evolve among interacting participants. This work extended my interest from noncooperative incentives to cooperative decision-making and resource allocation.
+
+Simulation and code
 ======
 
-### Pareto improvement simulation
-
-Simulation code supporting research on Pareto improvement for noncooperative dynamical systems with vector-valued payoffs is available on [GitHub](https://github.com/ZehGuo/ZehuiGuo_Pareto_Improvement_Simulation).
-
-Additional simulation results and code for my other research projects are available upon request. Please [contact me by email](mailto:wasdjkl0225@gmail.com) for further information.
-
-Methods and tools
-======
-
-- Stability and dynamical-systems analysis
-- Noncooperative and cooperative game theory
-- Convex optimization and mathematical modeling
-- Multi-agent systems and graph-based methods
-- MATLAB and Python simulation
+Simulation code for Pareto improvement in noncooperative dynamical systems is available on [GitHub](https://github.com/ZehGuo/ZehuiGuo_Pareto_Improvement_Simulation). Additional research simulations are available upon request; please [contact me by email](mailto:wasdjkl0225@gmail.com).

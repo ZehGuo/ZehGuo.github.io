@@ -1,21 +1,24 @@
 ---
 permalink: /
-title: "Research in Control and Game Theory"
+title: "Research Overview"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I study decision-making in interconnected dynamical systems, especially when agents pursue multiple and potentially conflicting objectives.
+I am a researcher in control theory and game theory, with a focus on dynamical systems involving multiple interacting decision makers. I study how equilibria can be characterized and stabilized, and how incentives and allocation rules can improve collective outcomes.
 
-My work combines **control theory, game theory, optimization, and simulation** to analyze equilibrium and stability, and to design incentives for better collective outcomes.
-
-Core research areas
+Research themes
 ======
 
-- **Multi-objective games:** characterization and topology of Nash equilibrium sets.
-- **Dynamics and incentives:** stability analysis and Pareto-improving mechanism design.
-- **Networked systems and fair allocation:** multi-agent control and cooperative allocation in shared energy systems.
+- **Game theory and multi-objective decision-making.** Nash equilibrium sets, vector-valued payoffs, Pareto improvement, and incentive design.
+- **Control and networked dynamical systems.** Stability, passivity and dissipativity, consensus, cooperative output regulation, and multi-agent networks with dynamic edges.
+- **Fair allocation and energy systems.** Cooperative game theory, axiomatic approaches to fairness, opinion dynamics, and shared photovoltaic-battery systems.
+
+Approach
+======
+
+My work combines mathematical modeling, structural analysis, optimization, and simulation. I am particularly interested in identifying hidden assumptions and reformulating complex problems so that theoretical conditions become clearer and more useful.
 
 [Explore my research](/research/) · [View publications](/publications/) · [Read my CV](/cv/)
