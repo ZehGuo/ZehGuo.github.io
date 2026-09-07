@@ -1,37 +1,21 @@
 ---
 permalink: /
-title: "Zehui Guo"
+title: "Research in Control and Game Theory"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a researcher working at the intersection of **control theory, game theory, dynamical systems, and multi-agent systems**. My research focuses on understanding how interacting decision makers behave when they have multiple objectives, and how stability analysis and incentive design can improve system-level outcomes.
+I study decision-making in interconnected dynamical systems, especially when agents pursue multiple and potentially conflicting objectives.
 
-My doctoral research studied noncooperative dynamical systems with vector-valued payoff functions. It developed results on the characterization and topology of Nash equilibrium sets, their stability under piecewise pseudo-gradient dynamics, Pareto improvement, and incentive design. My subsequent research applied cooperative game theory and axiomatic allocation methods to fair energy management in shared photovoltaic battery systems.
+My work combines **control theory, game theory, optimization, and simulation** to analyze equilibrium and stability, and to design incentives for better collective outcomes.
 
-Research interests
+Core research areas
 ======
 
-- Control theory and stability analysis
-- Game theory and mechanism design
-- Dynamical and multi-agent systems
-- Multi-objective decision making
-- Distributed energy and resource allocation
-- Mathematical modeling, optimization, and simulation
+- **Multi-objective games:** characterization and topology of Nash equilibrium sets.
+- **Dynamics and incentives:** stability analysis and Pareto-improving mechanism design.
+- **Networked systems and fair allocation:** multi-agent control and cooperative allocation in shared energy systems.
 
-Current focus
-======
-
-I am particularly interested in research and development problems that require rigorous mathematical modeling, structural analysis, and computational validation. I also welcome opportunities to transfer ideas from control and game theory to energy systems, algorithm design, and multi-agent decision-making problems.
-
-Selected highlights
-======
-
-- Developed a framework for analyzing Nash equilibrium sets in games with vector-valued payoffs.
-- Studied the topology and stability of equilibrium sets using tools from control theory and topology.
-- Proposed incentive mechanisms for weak Pareto improvement in noncooperative dynamical systems.
-- Investigated fair allocation in shared photovoltaic battery systems using cooperative game theory.
-
-See the [Research](/research/) and [Publications](/publications/) pages for more details.
+[Explore my research](/research/) · [View publications](/publications/) · [Read my CV](/cv/)
