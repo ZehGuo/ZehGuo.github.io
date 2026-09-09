@@ -1,5 +1,6 @@
 ---
 title: "Topology of Nash Equilibrium Set with Quadratic Vector Payoff Functions"
+authors: "<strong>Z. Guo</strong> and T. Hayakawa"
 collection: publications
 category: conferences
 permalink: /publication/2024-topology-nash-equilibrium-set

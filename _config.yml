@@ -12,7 +12,7 @@ site_theme               : "air" # The available themes options are "default", "
 title                    : "Zehui Guo"
 title_separator          : "-"
 name                     : &name "Zehui Guo"
-description              : &description "Research in control theory, game theory, dynamical systems, and multi-agent systems."
+description              : &description "Mathematical modeling, control, and decision-making in dynamical and multi-agent systems."
 url                      : https://zehguo.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           :
   name             : "Zehui Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher in control theory, game theory, dynamical systems, and multi-agent systems."
+  bio              : "Control, game theory, and multi-agent decision-making."
   location         :
   employer         :
   uri              : # URL

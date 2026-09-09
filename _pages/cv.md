@@ -7,24 +7,21 @@ redirect_from:
   - /resume
 ---
 
-Education
-======
+## Education
 
 - **Ph.D. in Systems and Control Engineering**, Tokyo Institute of Technology / Institute of Science Tokyo, 2021–2025
   - Dissertation: *Stability and Incentive Design for Noncooperative Dynamical Systems With Vector-valued Payoff Functions*
-  - GPA: 3.65
 - **Japanese-language training, MEXT program**, Northeast Normal University, 2020–2021
 - **M.Eng. in Control Engineering**, Zhejiang University, 2017–2020
 - **B.Eng. in Automation**, Zhejiang University, 2013–2017
 
-Academic and project experience
-======
+## Research experience
 
-### Postdoctoral Researcher, Institute of Science Tokyo, 2025–2026
+### Postdoctoral Researcher, Institute of Science Tokyo, May 2025–March 2026
 
-- Studied fair energy management for shared photovoltaic battery systems.
-- Applied cooperative game theory and axiomatic allocation methods to compare fair resource-allocation mechanisms.
-- Investigated relationships among equal allocation, the Shapley value, and broader families of axiomatic solutions.
+- Explored fair allocation of benefits and costs in shared photovoltaic-battery systems.
+- Investigated cooperative-game-theoretic and axiomatic formulations, including relationships between equal allocation and the Shapley value.
+- Considered opinion-dynamics models as a way to describe how fairness preferences may evolve among participants.
 
 ### Doctoral Researcher, Tokyo Institute of Technology / Institute of Science Tokyo, 2021–2025
 
@@ -44,17 +41,23 @@ Academic and project experience
 - **Bachelor's thesis - Distribution of PMU for Power System State Estimation:** studied phasor measurement unit placement for power-system state estimation.
 - **Student Research Training Program - Home Security System Design Based on Power Line:** developed a prototype using ATmega128 and ATmega8 microcontrollers for sensor input, alarm transmission, message display, and timing functions.
 
-Knowledge foundation
-======
+## Methods and technical foundation
 
-- **Mathematics and optimization:** calculus, ordinary and partial differential equations, linear algebra, matrix theory, probability and statistics, numerical methods, applied optimization, and operational research.
-- **Control, systems, and signals:** principles of automatic control, linear system theory, system identification and filtering, process control, signals and systems, digital signal processing, electrical network theory, and computer control-system design.
-- **Computing and intelligent systems:** programming fundamentals, data structures and control algorithm analysis, computer networks, mobile internet software engineering, object-oriented programming, computer vision, robotics, and computer simulation.
-- **Engineering foundations:** electrical circuits, analog and digital electronics, sensors and measurement, microprocessors, embedded-system development, and engineering practice.
-- **Doctoral training:** advanced seminars and research in systems and control engineering, together with research ethics, international communication, and professional development.
+- **Mathematics and optimization:** linear algebra, matrix theory, ordinary and partial differential equations, probability and statistics, numerical methods, convex optimization, operational research, topology, and graph theory.
+- **Control and decision systems:** stability analysis, linear and nonlinear systems, passivity and dissipativity, system identification, output regulation, multi-agent systems, noncooperative and cooperative game theory, and mechanism design.
+- **MATLAB:** primary computational tool for mathematical modeling, numerical simulation, and visualization.
+- **Python:** working familiarity through numerical prototyping, API-based experimentation, and the study of LLM and quantitative workflows.
+- **C and Java:** prior project exposure through microcontroller development and Android application coursework.
 
-Awards and scholarships
-======
+## Current technical development
+
+- Hands-on study of LLM-based tools, agent workflows, and quantitative modeling through open-source implementations and API-based experiments.
+
+## Academic service
+
+- Peer reviewer for conferences and journals including IEEE CDC, ACC, ECC, IEEE Control Systems Letters, SICE JCMSI, SCIS, and MMC.
+
+## Awards and scholarships
 
 - Japanese Government (MEXT) Scholarship
 - Second Prize, Interdisciplinary Contest in Modeling, 2016
@@ -62,29 +65,8 @@ Awards and scholarships
 - First Prize, Mathematical Modeling Contest in Zhejiang University, 2015
 - Second-class Academic Scholarship, 2014
 
-Languages
-======
+## Languages
 
 - **Chinese:** native
 - **English:** TOEFL iBT 87 (CEFR B2)
 - **Japanese:** JLPT N2
-
-Research interests
-======
-
-- Control theory and dynamical systems
-- Noncooperative and cooperative game theory
-- Multi-agent systems
-- Stability analysis
-- Incentive and mechanism design
-- Energy and resource allocation
-
-Computational tools
-======
-
-- MATLAB, Python, C, and Java for modeling, simulation, numerical analysis, and data processing
-
-Publications
-======
-
-See the complete [Publications](/publications/) page.

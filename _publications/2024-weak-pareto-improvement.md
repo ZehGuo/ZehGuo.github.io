@@ -1,5 +1,6 @@
 ---
 title: "Two-Agent Noncooperative Dynamical Systems With Quadratic Vector-Valued Payoff Functions and Weak Pareto Improvement"
+authors: "<strong>Z. Guo</strong> and T. Hayakawa"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-weak-pareto-improvement

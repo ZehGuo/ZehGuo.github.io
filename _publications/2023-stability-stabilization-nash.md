@@ -1,5 +1,6 @@
 ---
 title: "Stability and Stabilization of Nash Equilibrium for Noncooperative Systems with Vector-Valued Payoff Functions"
+authors: "<strong>Z. Guo</strong>, T. Hayakawa, and Y. Yan"
 collection: publications
 category: conferences
 permalink: /publication/2023-stability-stabilization-nash

@@ -7,17 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in control theory and game theory, with a focus on dynamical systems involving multiple interacting decision makers. I study how equilibria can be characterized and stabilized, and how incentives and allocation rules can improve collective outcomes.
+I hold a Ph.D. in Systems and Control Engineering. My work focuses on mathematical modeling, control, and decision-making in dynamical and multi-agent systems. I study how equilibrium behavior can be characterized and stabilized, and how incentives or control design can improve system-level outcomes.
 
-Research themes
-======
+## Core research areas
 
-- **Game theory and multi-objective decision-making.** Nash equilibrium sets, vector-valued payoffs, Pareto improvement, and incentive design.
+- **Equilibrium, stability, and incentive design.** Nash equilibrium sets, vector-valued payoffs, Pareto improvement, and mechanisms for improving collective outcomes.
 - **Control and networked dynamical systems.** Stability, passivity and dissipativity, consensus, cooperative output regulation, and multi-agent networks with dynamic edges.
-- **Fair allocation and energy systems.** Cooperative game theory, axiomatic approaches to fairness, opinion dynamics, and shared photovoltaic-battery systems.
 
-Approach
-======
+## Broader directions
+
+I have also explored fair resource allocation in shared energy systems, and I am broadening my computational background through hands-on study of LLM-based tools, agent workflows, and quantitative modeling.
+
+## Approach
 
 My work combines mathematical modeling, structural analysis, optimization, and simulation. I am particularly interested in identifying hidden assumptions and reformulating complex problems so that theoretical conditions become clearer and more useful.
 

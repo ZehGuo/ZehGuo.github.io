@@ -1,5 +1,6 @@
 ---
 title: "Nash Equilibrium of 2-Agent Game with Quadratic Vector Payoff Function and Its Stability"
+authors: "<strong>Z. Guo</strong>, T. Hayakawa, and Y. Yan"
 collection: publications
 category: conferences
 permalink: /publication/2023-nash-equilibrium-vector-payoff

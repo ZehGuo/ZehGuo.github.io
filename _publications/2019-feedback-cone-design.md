@@ -1,5 +1,6 @@
 ---
 title: "A Feedback Cone Design Synthesis and Its Corresponding Gain/Phase Margin"
+authors: "<strong>Z. Guo</strong>, Y. Li, and J. Xiang"
 collection: publications
 category: conferences
 permalink: /publication/2019-feedback-cone-design
