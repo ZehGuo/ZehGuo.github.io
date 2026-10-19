@@ -61,7 +61,7 @@ redirect_from:
 ## Awards and scholarships
 
 - Japanese Government (MEXT) Scholarship
-- Second Prize, Interdisciplinary Contest in Modeling, 2016
+- Second Prize, Mathematical Contest in Modeling (MCM), 2016
 - Provincial Second Prize, National Mathematical Contest in Modeling, 2015
 - First Prize, Mathematical Modeling Contest in Zhejiang University, 2015
 - Second-class Academic Scholarship, 2014
