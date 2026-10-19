@@ -35,4 +35,4 @@ I also considered whether opinion-dynamics models could help describe how notion
 
 ## Simulation and reproducibility
 
-Simulation code for Pareto improvement in noncooperative dynamical systems is available on [GitHub](https://github.com/ZehGuo/ZehuiGuo_Pareto_Improvement_Simulation). Additional research simulations are available upon request; please [contact me by email](mailto:wasdjkl0225@gmail.com).
+Simulation code for Pareto improvement in noncooperative dynamical systems is available on [GitHub](https://github.com/ZehGuo/ZehuiGuo_Pareto_Improvement_Simulation). Additional research simulations are available upon request; please [contact me by email](mailto:{{ site.author.email }}).

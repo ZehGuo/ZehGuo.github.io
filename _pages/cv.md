@@ -10,6 +10,7 @@ redirect_from:
 ## Education
 
 - **Ph.D. in Systems and Control Engineering**, Tokyo Institute of Technology / Institute of Science Tokyo, 2021–2025
+  - Research student, October 2021–March 2022; doctoral program, April 2022–March 2025
   - Dissertation: *Stability and Incentive Design for Noncooperative Dynamical Systems With Vector-valued Payoff Functions*
 - **Japanese-language training, MEXT program**, Northeast Normal University, 2020–2021
 - **M.Eng. in Control Engineering**, Zhejiang University, 2017–2020
@@ -23,7 +24,7 @@ redirect_from:
 - Investigated cooperative-game-theoretic and axiomatic formulations, including relationships between equal allocation and the Shapley value.
 - Considered opinion-dynamics models as a way to describe how fairness preferences may evolve among participants.
 
-### Doctoral Researcher, Tokyo Institute of Technology / Institute of Science Tokyo, 2021–2025
+### Doctoral Researcher, Tokyo Institute of Technology / Institute of Science Tokyo, October 2021–March 2025
 
 - Developed a theoretical framework for noncooperative dynamical systems with vector-valued payoffs.
 - Established results on the characterization, topology, and stability of Nash equilibrium sets.

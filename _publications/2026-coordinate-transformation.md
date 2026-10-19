@@ -13,4 +13,4 @@ This paper introduces a coordinate-transformation method for simplifying stabili
 
 The paper was presented in the **Game-Theoretic Methods in Control II** session as paper **FrA4.2** at ECC 2026 in Reykjavík, Iceland. See the [official ECC 2026 program](https://controls.papercept.net/conferences/conferences/ECC26/program/ECC26_ContentListWeb_3.html).
 
-*A final page range and DOI were not found in the publicly indexed IEEE record as of September 9, 2026. They will be added when the final bibliographic record becomes available.*
+*A final page range and DOI were not yet available in Crossref as of October 19, 2026. They will be added when the final bibliographic record becomes available.*
