@@ -7,7 +7,7 @@ permalink: /publication/2026-coordinate-transformation
 date: 2026-07-10
 venue: "European Control Conference (ECC)"
 paperurl: "https://ieeexplore.ieee.org/document/11625521"
-citation: 'Z. Guo and T. Hayakawa. (2026). &quot;A Coordinate Transformation Method for Stability Analysis of Nash Equilibria with Vector Payoff Functions.&quot; In <i>Proceedings of the 2026 European Control Conference (ECC)</i>.'
+citation: 'Z. Guo and T. Hayakawa. (2026). &quot;A Coordinate Transformation Method for Stability Analysis of Nash Equilibria with Vector Payoff Functions.&quot; <i>2026 European Control Conference (ECC)</i>, Reykjavík, Iceland, pp. 2944–2949.'
 ---
 
 This paper introduces a coordinate-transformation method for simplifying stability analysis of Nash equilibrium sets in piecewise dynamical systems.
