@@ -180,6 +180,8 @@ exclude:
   - Capfile
   - config
   - Dockerfile
+  - docker-compose.yaml
+  - _config_docker.yml
   - Gemfile
   - Gruntfile.js
   - gulpfile.js

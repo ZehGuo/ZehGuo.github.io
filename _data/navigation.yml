@@ -1,16 +1,9 @@
-# The following is the order of the links in the header of the website.
+# Header links for each site language, in display order.
 #
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+# The keys match the language codes in _data/i18n.yml. To add a section (for
+# example Talks or Projects), add one entry per language and create the pages.
 
-main:
-  - title: "Home"
-    url: /
-
+en:
   - title: "Research"
     url: /research/
 
@@ -19,3 +12,23 @@ main:
 
   - title: "CV"
     url: /cv/
+
+ja:
+  - title: "研究内容"
+    url: /ja/research/
+
+  - title: "発表論文"
+    url: /ja/publications/
+
+  - title: "経歴"
+    url: /ja/cv/
+
+zh:
+  - title: "研究"
+    url: /zh/research/
+
+  - title: "论文"
+    url: /zh/publications/
+
+  - title: "简历"
+    url: /zh/cv/

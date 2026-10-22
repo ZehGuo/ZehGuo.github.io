@@ -1,0 +1,62 @@
+# Interface text for each site language.
+#
+# English pages live at the site root; Japanese pages under /ja/ and Chinese
+# pages under /zh/. A page selects its language with `lang:` in its front
+# matter (pages without it are English). Pages that are translations of each
+# other share the same `ref:` value, which the language switcher and the
+# hreflang links use to connect them.
+#
+# To add an interface string, add the same key to every language below.
+
+order: [en, ja, zh]
+
+en:
+  label: "EN"
+  name: "English"
+  html_lang: "en"
+  og_locale: "en_US"
+  root: /
+  author_name: "Zehui Guo"
+  author_bio: "Control, game theory, and multi-agent decision-making."
+  follow: "Follow"
+  email: "Email"
+  scholar_note: "You can also find my articles on "
+  scholar_link: "my Google Scholar profile"
+  scholar_note_after: "."
+  publications_books: "Books"
+  publications_manuscripts: "Journal Articles"
+  publications_conferences: "Conference Papers"
+
+ja:
+  label: "日本語"
+  name: "日本語"
+  html_lang: "ja"
+  og_locale: "ja_JP"
+  root: /ja/
+  author_name: "郭 沢輝（Zehui Guo）"
+  author_bio: "制御理論、ゲーム理論、マルチエージェントの意思決定"
+  follow: "連絡先"
+  email: "メール"
+  scholar_note: "論文は"
+  scholar_link: "Google Scholar"
+  scholar_note_after: "でもご覧いただけます。論文は英語で発表しています。"
+  publications_books: "書籍"
+  publications_manuscripts: "学術論文誌"
+  publications_conferences: "会議論文"
+
+zh:
+  label: "中文"
+  name: "中文"
+  html_lang: "zh-CN"
+  og_locale: "zh_CN"
+  root: /zh/
+  author_name: "郭泽辉（Zehui Guo）"
+  author_bio: "控制理论、博弈论与多智能体决策"
+  follow: "联系方式"
+  email: "邮箱"
+  scholar_note: "论文也可在 "
+  scholar_link: "Google Scholar"
+  scholar_note_after: " 上查看。论文均以英文发表。"
+  publications_books: "著作"
+  publications_manuscripts: "期刊论文"
+  publications_conferences: "会议论文"

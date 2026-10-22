@@ -14,4 +14,15 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<!-- Alternate-language versions of this page, for search engines -->
+{% if page.ref %}
+  {% for p in site.pages %}
+    {% if p.ref == page.ref %}
+      {% assign p_lang = p.lang | default: "en" %}
+<link rel="alternate" hreflang="{{ site.data.i18n[p_lang].html_lang }}" href="{{ base_path }}{{ p.url }}"/>
+      {% if p_lang == "en" %}<link rel="alternate" hreflang="x-default" href="{{ base_path }}{{ p.url }}"/>{% endif %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
 <!-- end custom head snippets -->

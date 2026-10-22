@@ -2,6 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
+ref: research
 author_profile: false
 ---
 

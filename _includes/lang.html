@@ -1,0 +1,7 @@
+{% comment %}
+  Sets `lang` (en, ja or zh) and `t` (that language's strings from
+  _data/i18n.yml) for the current page. Pages without `lang:` are English.
+{% endcomment %}
+{% assign lang = page.lang | default: "en" %}
+{% assign t = site.data.i18n[lang] %}
+{% unless t %}{% assign lang = "en" %}{% assign t = site.data.i18n.en %}{% endunless %}

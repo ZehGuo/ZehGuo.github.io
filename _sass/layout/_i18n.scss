@@ -1,0 +1,46 @@
+/* ==========================================================================
+   LANGUAGES
+   ========================================================================== */
+
+/* CJK fonts for the sans-serif stack in _themes.scss. They are chosen by the
+   page's lang attribute so that Japanese and Chinese text use the matching
+   glyph forms. */
+:root {
+  --font-cjk: "Hiragino Sans", "Yu Gothic UI", "Microsoft YaHei", "Noto Sans CJK JP";
+}
+
+html:lang(ja) {
+  --font-cjk: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "Yu Gothic", Meiryo, "Noto Sans JP";
+}
+
+html:lang(zh) {
+  --font-cjk: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC";
+}
+
+/* Language switcher in the masthead */
+.lang-switch__links {
+  display: flex;
+  align-items: center;
+  margin: 0 1rem;
+  font-size: $type-size-6;
+
+  a,
+  .lang-switch__current {
+    display: inline-block;
+    margin: 0;
+    padding: 0.5rem 0.35rem;
+  }
+
+  .lang-switch__current {
+    font-weight: 700;
+    color: var(--global-text-color);
+  }
+}
+
+.greedy-nav .visible-links .lang-switch__links a:before {
+  display: none;
+}
+
+.hidden-links .lang-switch__links {
+  justify-content: flex-end;
+}

@@ -1,0 +1,26 @@
+{% comment %}
+  Publication list shared by the English, Japanese and Chinese publication
+  pages. Entries come from _publications/ (titles stay in English); headings
+  and the Google Scholar note come from _data/i18n.yml.
+{% endcomment %}
+{% include base_path %}
+{% include lang.html %}
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">{{ t.scholar_note }}<a href="{{ site.author.googlescholar }}">{{ t.scholar_link }}</a>{{ t.scholar_note_after }}</div>
+{% endif %}
+
+{% for category in site.publication_category %}
+  {% assign title_shown = false %}
+  {% assign heading_key = "publications_" | append: category[0] %}
+  {% for post in site.publications reversed %}
+    {% if post.category != category[0] %}
+      {% continue %}
+    {% endif %}
+    {% unless title_shown %}
+      <h2>{{ t[heading_key] | default: category[1].title }}</h2><hr />
+      {% assign title_shown = true %}
+    {% endunless %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}

@@ -1,0 +1,21 @@
+{% comment %}
+  Links to this page in the other languages. A translation is a page with the
+  same `ref:`; when none exists, the link goes to that language's home page.
+  Requires lang.html to have been included.
+{% endcomment %}
+<span class="lang-switch__links">
+{% for code in site.data.i18n.order %}
+  {% assign target = site.data.i18n[code].root %}
+  {% if page.ref %}
+    {% for p in site.pages %}
+      {% assign p_lang = p.lang | default: "en" %}
+      {% if p.ref == page.ref and p_lang == code %}{% assign target = p.url %}{% endif %}
+    {% endfor %}
+  {% endif %}
+  {% if code == lang %}
+    <span class="lang-switch__current" lang="{{ site.data.i18n[code].html_lang }}" aria-current="true">{{ site.data.i18n[code].label }}</span>
+  {% else %}
+    <a href="{{ base_path }}{{ target }}" lang="{{ site.data.i18n[code].html_lang }}" hreflang="{{ site.data.i18n[code].html_lang }}">{{ site.data.i18n[code].label }}</a>
+  {% endif %}
+{% endfor %}
+</span>

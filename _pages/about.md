@@ -1,5 +1,6 @@
 ---
 permalink: /
+ref: home
 title: "Research Overview"
 author_profile: true
 redirect_from:
